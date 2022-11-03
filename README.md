@@ -1,6 +1,6 @@
-# learning-dbt
+# dbt Fundamentals
 
-Resources that I'm using to learn the dbt Fundamentals
+Resources that I'm using to learn the dbt Fundamentals.
 
 ---
 
