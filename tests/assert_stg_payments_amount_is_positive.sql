@@ -9,4 +9,4 @@ select
     sum(amount) as total_amount
 from payments
 group by order_id
-having total_amount < 0
+having total_amount > 0
